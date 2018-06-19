@@ -22,7 +22,7 @@ Be sure to back up your old hud folder first! Never know when something might br
 ```
 tf
 └── custom
-    └── rayshud
+    └── ldthud
         ├── customizations
         ├── materials
         ├── resource

@@ -29,7 +29,7 @@ tf
         └── info.vdf
 ```
 
-### Customization
+### Customisation
 --------
 
 I can't help you out here, but you could do it yourself after watching [raysfire's tutorial on HUD editing] (https://www.youtube.com/watch?v=-JkF5lPvXk0&list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs)
@@ -38,6 +38,6 @@ However this HUD works great with my configs which can be [found here] (https://
 
 # Credits
 
-<p>Griever (creator of ToonHUD)</p>
-<p>n0kk (creator of aHUD)</p>
-<p>raysfire (HUD editing tutorials)</p>
+* [Griever] (https://steamcommunity.com/id/griiver/) (creator of ToonHUD)
+* [n0kk] (https://github.com/n0kk) (creator of aHUD)
+* [raysfire] (https://www.youtube.com/channel/UCG6wSbGRHOzK6RevHMy0-4g) (HUD editing tutorials)

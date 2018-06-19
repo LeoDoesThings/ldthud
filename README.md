@@ -5,12 +5,10 @@ Made by LeoDoesThings04
 
 
 ## To Download
---------
 
 Click [this link](https://github.com/LeoDoesThings/ldthud/archive/master.zip) or the green `Clone or Download` button at the top of the page and then `Download ZIP` in order to download the most recent version of my hud! It should be at the top of the page. 
 
 ## To Install
---------
 
 Be sure to back up your old hud folder first! Never know when something might break, and it's always best to be prepared.
 
@@ -32,6 +30,7 @@ tf
 ```
 
 ### Customization
+--------
 
 I can't help you out here, but you could do it yourself after watching [raysfire's tutorial on HUD editing] (https://www.youtube.com/watch?v=-JkF5lPvXk0&list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs)
 

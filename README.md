@@ -1,7 +1,7 @@
 # ldtHUD
 A blend of [aHUD](https://github.com/n0kk/ahud) and [ToonHUD](https://toonhud.com/)
 
-Made by LeoDoesThings04
+Made by [LeoDoesThings04](https://www.youtube.com/channel/UCvtR1-h7I7GXQ7_XMp4JC2A)
 
 
 ## To Download

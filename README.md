@@ -31,7 +31,7 @@ tf
         └── info.vdf
 ```
 
-<header>Credits<header>
+# Credits
 
 Griever (creator of ToonHUD)
 n0kk (creator of aHUD)

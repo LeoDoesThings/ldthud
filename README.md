@@ -44,4 +44,4 @@ However this HUD works great with my configs which can be <a href="https://githu
 * [Griever](https://steamcommunity.com/id/griiver/) (creator of ToonHUD)
 * [n0kk](https://github.com/n0kk) (creator of aHUD)
 * [raysfire](https://www.youtube.com/channel/UCG6wSbGRHOzK6RevHMy0-4g) (HUD editing tutorials)
-* [Valve](https://www.valvesoftware.com/en/) (creator of the Team Fortress 2 we know and love)
+* [VALVe](https://www.valvesoftware.com/en/) (creator of the Team Fortress 2 we know and love)

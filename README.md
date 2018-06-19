@@ -31,7 +31,7 @@ tf
         └── info.vdf
 ```
 
-<header2>Customization</header2>
+<h2 id="header-2">Customization</h2>
 
 I can't help you out here, but you could do it yourself after watching [raysfire's tutorial on HUD editing] (https://www.youtube.com/watch?v=-JkF5lPvXk0&list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs)
 

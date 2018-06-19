@@ -35,7 +35,7 @@ tf
 ### Customisation
 --------
 
-I can't help you out here, but you could do it yourself after watching <a href="https://www.youtube.com/watch?v=-JkF5lPvXk0&list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs">raysfire's tutorial on HUD editing</a>
+I can't help you out here, but you could do it yourself after watching [raysfire's tutorial on HUD editing](https://www.youtube.com/watch?v=-JkF5lPvXk0&list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs)
 
 However this HUD works great with my configs which can be <a href="https://github.com/LeoDoesThings/cfg">found here</a>
 

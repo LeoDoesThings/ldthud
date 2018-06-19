@@ -33,6 +33,6 @@ tf
 
 # Credits
 
-Griever (creator of ToonHUD)
-n0kk (creator of aHUD)
-raysfire (HUD editing tutorials)
+<p>Griever (creator of ToonHUD)</p>
+<p>n0kk (creator of aHUD)</p>
+<p>raysfire (HUD editing tutorials)</p>

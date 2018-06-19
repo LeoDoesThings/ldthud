@@ -1,5 +1,5 @@
 # ldtHUD
-A blend of aHUD and ToonHUD
+A blend of [aHUD] (https://github.com/n0kk/ahud) and [ToonHUD] (https://toonhud.com/)
 
 Made by LeoDoesThings04
 

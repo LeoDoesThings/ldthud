@@ -14,9 +14,9 @@ Be sure to back up your old hud folder first! Never know when something might br
 
 1. Press `Download ZIP` on Github. This will download `ldthud-master.zip`
 2. Navigate to:
-* Windows: `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\cfg`
-* MacOSX:  `~/Library/Application Support/Steam/steamapps/common/Team Fortress 2/tf/cfg`
-* Linux:   `~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/cfg`
+* Windows: `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom`
+* MacOSX:  `~/Library/Application Support/Steam/steamapps/common/Team Fortress 2/tf/custom`
+* Linux:   `~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom`
 3. Extract .zip file contents into the `custom` folder.
 4. Ensure that the final file structure should resembles the following:
 ```

@@ -3,7 +3,7 @@ A blend of [aHUD](https://github.com/n0kk/ahud) and [ToonHUD](https://toonhud.co
 
 Made by [LeoDoesThings04](https://leodoesthings.weebly.com/)
 
-THIS PROJECT HAS SINCE BEEN DISCONTINUED FOR ANOTHER PROJECT WHICH MAY BE [FOUND HERE](https://github.com/LeoDoesThings/bwhud-16-10)
+***THIS PROJECT HAS SINCE BEEN DISCONTINUED FOR ANOTHER PROJECT WHICH MAY BE [FOUND HERE](https://github.com/LeoDoesThings/bwhud-16-10)***
 
 ## To Download
 
